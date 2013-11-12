@@ -16,7 +16,7 @@ Being a studio owner had begun to feel quite stifling.
 I realized I want to learn more from people who are smarter than I; I believe I can grow a lot faster when surrounded by others.
 There was little joy left in my work. Everything felt more difficult than it ever had before.
 The rest of my life suffered along side my discontent.
-Lisa and I separated and divorced.
+I got divorced.
 
 The beginning of this year had me emotionally reeling in all of these feelings. I began work to achieve balance in each day:
 I practiced [the artist’s way](http://www.amazon.com/The-Artists-Way-Julia-Cameron/dp/1585421464) and re-sparked my creativity. 
@@ -43,10 +43,8 @@ Fear is fucking oppressive, and as pointless as it is powerful. I made my way pa
 
 Damnit if it doesn't feel good to be on the other side of that. I don't imagine that anything could again make me feel that affraid and paralyzed in my own life. When I faced my greatest fear, all other fear just melted away.
 
-And so as not to abstract all of this "real talk" with heady bullshit - I didn't brain my way through this on my own. It took, and it still takes, good therapy and medication to get me out of the fetal position and back on my feet. And if that feels like that's more honesty than you're used to hearing - than that is why I feel obligated to include it. There is a lot of shitty, judge-y stigma around mental health and pharma. My feeling is that it's a miracle on earth and fuck anyone who thinks otherwise.
-
 I am on a journey, for now, to discover and separate the man from the musician. Not to cut music out from my life - it will always be as crucial to me as oxygen - but to come out from under it and walk with another purpose. In my musical career, I never stuck to one sound, genre or aesthetic. I am acutely aware of how much that restlessness is baked into my disposition. I am at peace knowing that my life may be a series of curious non-sequitors. But I am also very single-mindedly focussed right now on this next phase, of learning, meeting monumental challenges, and creating in a new medium. I feel great.
 
 ##tl;dr
 ------------------- 
-I'm learning to be a coder. Fear is an all-ruling, powerful force. [Welbutrin](http://en.wikipedia.org/wiki/Bupropion) is a miracle. I'm studying in San Fransisco from Jan '14 - Apr '14. Single and ready to mingle with javaScript.
+I'm learning to be a coder. I'm [studying in San Fransisco](http://hackreactor.com) from Jan '14 - Apr '14. Single and ready to mingle with javaScript.
