@@ -39,8 +39,6 @@ And I took notice when that feeling left. I waited it out for a long time, witho
 
 I was overwhelmed with fear. Of not living up to my own potential, of disappointing everyone in my life, of being an inadequate partner, of being a failure and a hack. (All of this is classically symptomatic of depression, but I mistook it for my universal truth for a very long time.)
 
-Fear is fucking oppressive, and as pointless as it is powerful. I made my way past the fears that I had long allowed to rule my actions, and my life and destiny felt like it belonged to me for the first time in many, many years. While visions of my future were vanishing right before me, the abyss that remained was far less daunting than the prospect of carrying all of that fear and pain into the future that belonged to a life I had chosen many years ago.
-
 Damnit if it doesn't feel good to be on the other side of that. I don't imagine that anything could again make me feel that affraid and paralyzed in my own life. When I faced my greatest fear, all other fear just melted away.
 
 I am on a journey, for now, to discover and separate the man from the musician. Not to cut music out from my life - it will always be as crucial to me as oxygen - but to come out from under it and walk with another purpose. In my musical career, I never stuck to one sound, genre or aesthetic. I am acutely aware of how much that restlessness is baked into my disposition. I am at peace knowing that my life may be a series of curious non-sequitors. But I am also very single-mindedly focussed right now on this next phase, of learning, meeting monumental challenges, and creating in a new medium. I feel great.
