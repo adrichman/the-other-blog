@@ -1,0 +1,13 @@
+---
+layout: post
+title: "code review"
+date: 2014-01-03 13:05
+comments: true
+categories: 
+---
+
+In the midst of the emotional gauntlet of the recent past, I think I actually managed to learn some stuff. I am reminiscing about my first day at [AD60](http://www.ad60.com) in October. It took almost the entire day to get set up with 4 Windows IE VirtualBoxes because our client needed support for IE8, ruby, git, and get rails and mysql playing nicely on the mac mini. I remember my friend and boss Dan sitting me down, giving me a list of everything I need to setup my dev environment, then getting access to the repo on [github](http://www.github.com/adrichman) and forking it in order to get cracking at some [JIRA tickets](https://www.atlassian.com/software/jira). Dan assigned me a ticket and came over to explain in further detail what needed to be done. I jumped right in to the code and... holy shit I did not know what the fuck I was looking at. My rails tutorials did not prepare me for so many models, controllers and views. I have a terrible memory of details (and generalities), so, from referencing github I am reminded that my first contribution to the code was to write a custom validation. It felt great when I finished it, and it felt less great 2 months later when I learned I had screwed it up and was calculating the cumulative file size of every instance of this particular model in the database, as opposed to the instances that belonged to the user who is currently logged in (duh). But really, writing a statement that actually didn't piss off rails felt like enough of an achievment at the time.
+
+I only worked that job for a couple months before I had to leave and get ready to go to SF, but I must say, I reflected during my last week in the office and marvelled at how familiar I had become with the product, all of the corresponding models and controllers (although I don't think I ever got used to HAML). The education they provided me so graciously was invaluable at codifying my understanding of OOP and the rails framework. I even grew to not hate ruby, despite it's loosy goosy joke of a syntax. Are those arguments? I couldn't tell. They're just floating there without any parenthetical notation.
+
+Oh and then there was the entire week (it seemed) of trying to rename files hosted on S3. Don't bother trying. Seriously. Just rename it on the client side and move the fuck on with your life.
