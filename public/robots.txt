@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.theotheradamrichman.com/sitemap.xml 
+Sitemap: http://adrichman.github.io/sitemap.xml 

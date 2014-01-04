@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[how to be]]></title>
-  <link href="http://blog.theotheradamrichman.com/atom.xml" rel="self"/>
-  <link href="http://blog.theotheradamrichman.com/"/>
-  <updated>2014-01-03T14:57:11-05:00</updated>
-  <id>http://blog.theotheradamrichman.com/</id>
+  <link href="http://adrichman.github.io/atom.xml" rel="self"/>
+  <link href="http://adrichman.github.io/"/>
+  <updated>2014-01-04T17:01:53-05:00</updated>
+  <id>http://adrichman.github.io/</id>
   <author>
     <name><![CDATA[Adam D Richman]]></name>
     
@@ -13,10 +13,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[planes, trains and automobiles]]></title>
+    <link href="http://adrichman.github.io/blog/2014/01/04/planes/"/>
+    <updated>2014-01-04T16:51:00-05:00</updated>
+    <id>http://adrichman.github.io/blog/2014/01/04/planes</id>
+    <content type="html"><![CDATA[<p>Getting this journey off on the right foot&hellip;
+the right foot being the one that slipped on the stairs at 5am and dealt my lower back and kidneys a blow to remember.</p>
+
+<p>This after a night spent trying to find a way out of NYC in time to arrive in SFO monday a.m. <a href="http://www.delta.com">Delta</a> cancelled my flight at 10pm, but the website crashed and I couldn&rsquo;t get a hold of an agent until 9 hours later. By that time I&rsquo;d taken things into my own hands. Booked the only ticket out of Baltimore that would connect me to the bay area (a first class seat for 80,000 miles fuuuucck), booked a ticket on Amtrak out of Manhattan to get me to BWI in time to catch that flight, and put the rest into fate&rsquo;s hands.</p>
+
+<p>Happy to have discovered the <a href="http://flightaware.com/miserymap/">Misery Map</a>, and with one more segment left on this trip (writing from layover in DTW), this might actually all end fairly well.</p>
+
+<p>Except for the internal bleeding.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[code review]]></title>
-    <link href="http://blog.theotheradamrichman.com/blog/2014/01/03/code-review/"/>
+    <link href="http://adrichman.github.io/blog/2014/01/03/code-review/"/>
     <updated>2014-01-03T13:05:00-05:00</updated>
-    <id>http://blog.theotheradamrichman.com/blog/2014/01/03/code-review</id>
+    <id>http://adrichman.github.io/blog/2014/01/03/code-review</id>
     <content type="html"><![CDATA[<p>In the midst of the emotional gauntlet of the recent past, I think I actually managed to learn some stuff. I am reminiscing about my first day at <a href="http://www.ad60.com">AD60</a> in October. It took almost the entire day to get set up with 4 Windows IE VirtualBoxes because our client needed support for IE8, ruby, git, and get rails and mysql playing nicely on the mac mini. I remember my friend and boss Dan sitting me down, giving me a list of everything I need to setup my dev environment, then getting access to the repo on <a href="http://www.github.com/adrichman">github</a> and forking it in order to get cracking at some <a href="https://www.atlassian.com/software/jira">JIRA tickets</a>. Dan assigned me a ticket and came over to explain in further detail what needed to be done. I jumped right in to the code and&hellip; holy shit I did not know what the fuck I was looking at. My rails tutorials did not prepare me for so many models, controllers and views. I have a terrible memory of details (and generalities), so, from referencing github I am reminded that my first contribution to the code was to write a custom validation. It felt great when I finished it, and it felt less great 2 months later when I learned I had screwed it up and was calculating the cumulative file size of every instance of this particular model in the database, as opposed to the instances that belonged to the user who is currently logged in (duh). But really, writing a statement that actually didn&rsquo;t piss off rails felt like enough of an achievment at the time.</p>
 
 <p>I only worked that job for a couple months before I had to leave and get ready to go to SF, but I must say, I reflected during my last week in the office and marvelled at how familiar I had become with the product, all of the corresponding models and controllers (although I don&rsquo;t think I ever got used to HAML). The education they provided me so graciously was invaluable at codifying my understanding of OOP and the rails framework. I even grew to not hate ruby, despite it&rsquo;s loosy goosy joke of a syntax. Are those arguments? I couldn&rsquo;t tell. They&rsquo;re just floating there without any parenthetical notation.</p>
@@ -27,9 +43,9 @@
   
   <entry>
     <title type="html"><![CDATA[tightroping]]></title>
-    <link href="http://blog.theotheradamrichman.com/blog/2014/01/03/tightroping/"/>
+    <link href="http://adrichman.github.io/blog/2014/01/03/tightroping/"/>
     <updated>2014-01-03T11:56:00-05:00</updated>
-    <id>http://blog.theotheradamrichman.com/blog/2014/01/03/tightroping</id>
+    <id>http://adrichman.github.io/blog/2014/01/03/tightroping</id>
     <content type="html"><![CDATA[<h2>Pack it up, Pack it in. Let me begin&hellip;</h2>
 
 <hr />
@@ -54,9 +70,9 @@ I have been struggling to manage responsibilities I took on as they all culminat
   
   <entry>
     <title type="html"><![CDATA[hello, world]]></title>
-    <link href="http://blog.theotheradamrichman.com/blog/2013/11/11/hello_world/"/>
+    <link href="http://adrichman.github.io/blog/2013/11/11/hello_world/"/>
     <updated>2013-11-11T22:58:00-05:00</updated>
-    <id>http://blog.theotheradamrichman.com/blog/2013/11/11/hello_world</id>
+    <id>http://adrichman.github.io/blog/2013/11/11/hello_world</id>
     <content type="html"><![CDATA[<p>It&rsquo;s been a minute since I addressed my friends at large, which is probably a good thing, because what friend enjoys hearing about a friend via broadcast? Since announcing that my studio <a href="http://thebucketnyc.com">The Bucket NYC</a> is on the market to be leased or bought, I&rsquo;ve received a lot of friendly inquiries in the spirit of WTF?! Some moments call for finding a less exhaustive approach to catching up, so hopefully this can fill in some blanks and form an overly-long answer to that question.</p>
 
 <p>I&rsquo;m sharing this in order to mark this moment and air out a little of what I&rsquo;ve kept hidden away. This is not intended to sound pitiful or important. It&rsquo;s just something about me, for anyone who cares about reading it.
@@ -109,18 +125,18 @@ I will begin there in the first week of 2014, and will, hopefully, come up for a
   
   <entry>
     <title type="html"><![CDATA[and I should mention...]]></title>
-    <link href="http://blog.theotheradamrichman.com/blog/2013/10/14/mention/"/>
+    <link href="http://adrichman.github.io/blog/2013/10/14/mention/"/>
     <updated>2013-10-14T21:06:00-04:00</updated>
-    <id>http://blog.theotheradamrichman.com/blog/2013/10/14/mention</id>
+    <id>http://adrichman.github.io/blog/2013/10/14/mention</id>
     <content type="html"><![CDATA[<p>I am a little excited to let time turn this blog into some kind of measuring stick for my progress in this new realm (for me). But it needs some catch-up from the last six+ months that started me down this path. I am going to get on that by the end of the week.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[winning the battle but...]]></title>
-    <link href="http://blog.theotheradamrichman.com/blog/2013/10/14/winning_the_battle/"/>
+    <link href="http://adrichman.github.io/blog/2013/10/14/winning_the_battle/"/>
     <updated>2013-10-14T20:51:00-04:00</updated>
-    <id>http://blog.theotheradamrichman.com/blog/2013/10/14/winning_the_battle</id>
+    <id>http://adrichman.github.io/blog/2013/10/14/winning_the_battle</id>
     <content type="html"><![CDATA[<h2>battled for an embarrasingly long time with this problem for coderbyte:</h2>
 
 <blockquote><p>Using the JavaScript language, have the function PermutationStep(num) take the num parameter
