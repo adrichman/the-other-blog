@@ -4,7 +4,7 @@
   <title><![CDATA[how to be]]></title>
   <link href="http://adrichman.github.io/atom.xml" rel="self"/>
   <link href="http://adrichman.github.io/"/>
-  <updated>2014-01-04T17:04:05-05:00</updated>
+  <updated>2014-01-04T19:07:45-08:00</updated>
   <id>http://adrichman.github.io/</id>
   <author>
     <name><![CDATA[Adam D Richman]]></name>
@@ -15,7 +15,7 @@
   <entry>
     <title type="html"><![CDATA[planes, trains and automobiles]]></title>
     <link href="http://adrichman.github.io/blog/2014/01/04/planes/"/>
-    <updated>2014-01-04T16:51:00-05:00</updated>
+    <updated>2014-01-04T16:51:00-08:00</updated>
     <id>http://adrichman.github.io/blog/2014/01/04/planes</id>
     <content type="html"><![CDATA[<p>Getting this journey off on the right foot&hellip;
 the right foot being the one that slipped on the stairs at 5am and dealt my lower back and kidneys a blow to remember.</p>
@@ -31,7 +31,7 @@ the right foot being the one that slipped on the stairs at 5am and dealt my lowe
   <entry>
     <title type="html"><![CDATA[code review]]></title>
     <link href="http://adrichman.github.io/blog/2014/01/03/code-review/"/>
-    <updated>2014-01-03T13:05:00-05:00</updated>
+    <updated>2014-01-03T13:05:00-08:00</updated>
     <id>http://adrichman.github.io/blog/2014/01/03/code-review</id>
     <content type="html"><![CDATA[<p>In the midst of the emotional gauntlet of the recent past, I think I actually managed to learn some stuff. I am reminiscing about my first day at <a href="http://www.ad60.com">AD60</a> in October. It took almost the entire day to get set up with 4 Windows IE VirtualBoxes because our client needed support for IE8, ruby, git, and get rails and mysql playing nicely on the mac mini. I remember my friend and boss Dan sitting me down, giving me a list of everything I need to setup my dev environment, then getting access to the repo on <a href="http://www.github.com/adrichman">github</a> and forking it in order to get cracking at some <a href="https://www.atlassian.com/software/jira">JIRA tickets</a>. Dan assigned me a ticket and came over to explain in further detail what needed to be done. I jumped right in to the code and&hellip; holy shit I did not know what the fuck I was looking at. My rails tutorials did not prepare me for so many models, controllers and views. I have a terrible memory of details (and generalities), so, from referencing github I am reminded that my first contribution to the code was to write a custom validation. It felt great when I finished it, and it felt less great 2 months later when I learned I had screwed it up and was calculating the cumulative file size of every instance of this particular model in the database, as opposed to the instances that belonged to the user who is currently logged in (duh). But really, writing a statement that actually didn&rsquo;t piss off rails felt like enough of an achievment at the time.</p>
 
@@ -44,7 +44,7 @@ the right foot being the one that slipped on the stairs at 5am and dealt my lowe
   <entry>
     <title type="html"><![CDATA[tightroping]]></title>
     <link href="http://adrichman.github.io/blog/2014/01/03/tightroping/"/>
-    <updated>2014-01-03T11:56:00-05:00</updated>
+    <updated>2014-01-03T11:56:00-08:00</updated>
     <id>http://adrichman.github.io/blog/2014/01/03/tightroping</id>
     <content type="html"><![CDATA[<h2>Pack it up, Pack it in. Let me begin&hellip;</h2>
 
@@ -71,7 +71,7 @@ I have been struggling to manage responsibilities I took on as they all culminat
   <entry>
     <title type="html"><![CDATA[hello, world]]></title>
     <link href="http://adrichman.github.io/blog/2013/11/11/hello_world/"/>
-    <updated>2013-11-11T22:58:00-05:00</updated>
+    <updated>2013-11-11T22:58:00-08:00</updated>
     <id>http://adrichman.github.io/blog/2013/11/11/hello_world</id>
     <content type="html"><![CDATA[<p>It&rsquo;s been a minute since I addressed my friends at large, which is probably a good thing, because what friend enjoys hearing about a friend via broadcast? Since announcing that my studio <a href="http://thebucketnyc.com">The Bucket NYC</a> is on the market to be leased or bought, I&rsquo;ve received a lot of friendly inquiries in the spirit of WTF?! Some moments call for finding a less exhaustive approach to catching up, so hopefully this can fill in some blanks and form an overly-long answer to that question.</p>
 
@@ -126,7 +126,7 @@ I will begin there in the first week of 2014, and will, hopefully, come up for a
   <entry>
     <title type="html"><![CDATA[and I should mention...]]></title>
     <link href="http://adrichman.github.io/blog/2013/10/14/mention/"/>
-    <updated>2013-10-14T21:06:00-04:00</updated>
+    <updated>2013-10-14T21:06:00-07:00</updated>
     <id>http://adrichman.github.io/blog/2013/10/14/mention</id>
     <content type="html"><![CDATA[<p>I am a little excited to let time turn this blog into some kind of measuring stick for my progress in this new realm (for me). But it needs some catch-up from the last six+ months that started me down this path. I am going to get on that by the end of the week.</p>
 ]]></content>
@@ -135,7 +135,7 @@ I will begin there in the first week of 2014, and will, hopefully, come up for a
   <entry>
     <title type="html"><![CDATA[winning the battle but...]]></title>
     <link href="http://adrichman.github.io/blog/2013/10/14/winning_the_battle/"/>
-    <updated>2013-10-14T20:51:00-04:00</updated>
+    <updated>2013-10-14T20:51:00-07:00</updated>
     <id>http://adrichman.github.io/blog/2013/10/14/winning_the_battle</id>
     <content type="html"><![CDATA[<h2>battled for an embarrasingly long time with this problem for coderbyte:</h2>
 
