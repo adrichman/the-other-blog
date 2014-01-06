@@ -4,13 +4,24 @@
   <title><![CDATA[how to be]]></title>
   <link href="http://adrichman.github.io/atom.xml" rel="self"/>
   <link href="http://adrichman.github.io/"/>
-  <updated>2014-01-04T19:07:45-08:00</updated>
+  <updated>2014-01-05T19:00:49-08:00</updated>
   <id>http://adrichman.github.io/</id>
   <author>
     <name><![CDATA[Adam D Richman]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[taco count]]></title>
+    <link href="http://adrichman.github.io/blog/2014/01/05/taco-count/"/>
+    <updated>2014-01-05T18:46:00-08:00</updated>
+    <id>http://adrichman.github.io/blog/2014/01/05/taco-count</id>
+    <content type="html"><![CDATA[<p>after &lt;24hrs: 4</p>
+
+<p>also, cracked a rib, I&rsquo;m pretty sure</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[planes, trains and automobiles]]></title>
